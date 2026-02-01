@@ -9,3 +9,4 @@ schedule
 gunicorn
 openpyxl
 pytz
+pytorch
